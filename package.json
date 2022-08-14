@@ -1,6 +1,6 @@
 {
   "homepage": "https://IDEBeta21.github.io/Realtime-Multi-Object-Detection",
-  "name": "handpose",
+  "name": "realtime-multi-object-detection",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
