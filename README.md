@@ -2,6 +2,8 @@
 
 The application will detect multiple object within the view of the camera
 
+Check the app. [Realtime Multi-Object Detection](https://IDEBeta21.github.io/Realtime-Multi-Object-Detection)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
